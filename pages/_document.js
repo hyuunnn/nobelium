@@ -41,7 +41,7 @@ class MyDocument extends Document {
             <>
               <link
                 rel="preload"
-                href="/fonts/IBMPlexSansVar-Roman.woff2"
+                href="/fonts/Pretendard-Regular.woff2"
                 as="font"
                 type="font/woff2"
                 crossOrigin="anonymous"
