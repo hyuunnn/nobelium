@@ -107,7 +107,7 @@ svg + .notion-page-title-text {
 }
 
 pre[class*='language-'] {
-  line-height: inherit;
+  /* line-height: inherit; */
 }
 
 .notion-bookmark:hover {
