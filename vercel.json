@@ -3,7 +3,7 @@
   "trailingSlash": false,
   "headers": [
     {
-      "source": "/fonts/Pretendard-Regular.woff2",
+      "source": "/fonts/Pretendard.var.woff2",
       "headers": [
         {
           "key": "Cache-Control",
